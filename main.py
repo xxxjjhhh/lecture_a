@@ -8,3 +8,6 @@ def dance():
 
 def meeting():
     print("autograph")
+
+def sleep():
+    print("zzzz")
