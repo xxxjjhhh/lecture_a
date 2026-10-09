@@ -17,3 +17,6 @@ def eating():
 
 def quit():
     print("bye")
+    
+def pat():
+    print("귀여워")
