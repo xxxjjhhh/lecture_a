@@ -9,7 +9,7 @@ def dance():
 def meeting():
     print("autograph")
 
-def sleep():
+def sleeping():
     print("zzzz")
 
 def eating():
