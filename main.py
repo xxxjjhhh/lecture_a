@@ -5,3 +5,6 @@ def greet():
 
 def dance():
     print("asdf")
+
+def meeting():
+    print("autograph")
