@@ -1,4 +1,4 @@
 print("🐈🐈🐈🐈🐈")
-print("asdf")
-print("asdf")
-print("asdf")
+
+def greet():
+    print("Hello, welcome to the cat program!")
