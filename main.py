@@ -14,3 +14,6 @@ def sleep():
 
 def eating():
     print("오이쉬")
+
+def quit()
+    print("bye")
