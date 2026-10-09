@@ -11,3 +11,6 @@ def meeting():
 
 def sleep():
     print("zzzz")
+
+def eating():
+    print("오이쉬")
